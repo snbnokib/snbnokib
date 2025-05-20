@@ -45,6 +45,7 @@ I'm a passionate and detail-oriented **Front-End Developer** skilled in building
 - ✉️ Email: [snbnokib@gmail.com](mailto:snbnokib@gmail.com)
 - 📍 Location: Gaibandha, Bangladesh
 - 🔗 [My GitHub](https://github.com/snbnokib)
+- 🔗[My Portfolio](https://snbportfolio.netlify.app/)
 
 ---
 
