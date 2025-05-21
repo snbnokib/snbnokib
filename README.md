@@ -21,5 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snbnokib&layout=compact&theme=vision-friendly-dark)](https://github.com/snbnokib)
 
 ### 🔗 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/snbnokib)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/snb_nokib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/snbnokib)
