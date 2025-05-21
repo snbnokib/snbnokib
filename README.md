@@ -6,7 +6,7 @@
 - 🌱 Learning **Django, React, and Data Science**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, or Linux**
-- 📫 How to reach me: [@snbnokib](https://twitter.com/snbnokib) (Twitter)
+- 📫 How to reach me: [snbnokib](https://snbportfolio.netlify.app/) (Portfolio)
 - ⚡ Fun fact: I love automating boring tasks!
 
 ### 🛠️ Tech Stack
