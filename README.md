@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nokib
+# Hi there 👋, I'm SNB Nokib
 
 ### A passionate developer from Bangladesh
 
