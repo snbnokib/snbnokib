@@ -2,8 +2,8 @@
 
 ### A passionate developer from Bangladesh
 
-- 🔭 I’m currently working on **Web Development & Python**
-- 🌱 Learning **Django, React, and Data Science**
+- 🔭 I’m currently working on **Web Development & React**
+- 🌱 Learning **Django, Python, and Data Science**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, or Linux**
 - 📫 How to reach me: [snbnokib](https://snbportfolio.netlify.app/) (Portfolio)
