@@ -7,6 +7,7 @@
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, or Linux**
 - 📫 How to reach me: [snbnokib](https://snbportfolio.netlify.app/) (Portfolio)
+- 📍 **Location**: Gaibandha, Bangladesh
 - ⚡ Fun fact: I love automating boring tasks!
 
 ### 🛠️ Tech Stack
